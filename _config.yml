@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   some of the activities I partake in. 
 # social links
 instagram_username: tonyleapo # DO NOT include the @ character, or else the build will fail!
+![FileSizeRender](https://user-images.githubusercontent.com/64381705/84446238-1252e500-ac13-11ea-91ec-8b1e98d6026a.png)
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme : minima
